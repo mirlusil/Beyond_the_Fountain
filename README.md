@@ -1,6 +1,6 @@
-# Beyond the "Fountain"
+# Beyond the *Fountain*
 
-*Beyond the "Fountain"* is a digital humanities project created by Miranda Siler in the Spring of 2022 in partial fulfillment of the History of Art and Design graduate thesis requirement at Pratt Institute. [See the final map.](https://arcg.is/D8eW9)
+"Beyond the *Fountain*" is a digital humanities project created by Miranda Siler in the Spring of 2022 in partial fulfillment of the History of Art and Design graduate thesis requirement at Pratt Institute. [See the final map.](https://arcg.is/D8eW9)
 
 ## Background
 
